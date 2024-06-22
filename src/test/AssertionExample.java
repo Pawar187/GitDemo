@@ -39,6 +39,7 @@ public class AssertionExample {
 	@Test 
 	public void testSix(){
 		System.out.println("Hi, I am Test Sixs .....");
+		System.out.println("demo git");
 	}
 
 }
