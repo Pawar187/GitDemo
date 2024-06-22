@@ -17,6 +17,8 @@ public class AssertionExample {
 		Assert.assertEquals(404, 200);
 		System.out.println("Hi, I am Test Two .....");
 		System.out.println("Hi, I am Test Two .....");
+		System.out.println("Hi, I am Test Two .....");
+
 
 	}
 	

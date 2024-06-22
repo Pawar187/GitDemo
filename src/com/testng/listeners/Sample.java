@@ -15,7 +15,7 @@ public class Sample {
 	public void testGetData(String s) {
 		System.out.println("Test GetData method, input = " +s);
 	}
-	
+		
 	@DataProvider
 	public Object[] dataprovider() {
 		return new Object[] {"A", "B"};
