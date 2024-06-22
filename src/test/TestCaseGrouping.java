@@ -12,6 +12,10 @@ public class TestCaseGrouping {
 	@Test(groups="Regression")
 	public void testCaseTwo(){
 	System.out.println("Im in testCaseTwo - And in Regression Group");
+	System.out.println("Im in testCaseTwo - And in Regression Group");
+
+	System.out.println("Im in testCaseTwo - And in Regression Group");
+
 	}
 	
 	@Test(groups="Smoke Test")
